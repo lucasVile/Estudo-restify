@@ -1,0 +1,24 @@
+{
+  "name": "restify-crud",
+  "version": "0.0.1",
+  "description": "BLABLABLA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "./node_modules/.bin/nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasVile/Estudo-restify.git"
+  },
+  "author": "Lucas Vilela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasVile/Estudo-restify/issues"
+  },
+  "homepage": "https://github.com/lucasVile/Estudo-restify#readme",
+  "dependencies": {
+    "nodemon": "^1.17.3",
+    "restify": "^7.1.1"
+  }
+}
